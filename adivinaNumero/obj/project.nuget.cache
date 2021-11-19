@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "KbTGkRBd8HEu4lARRsIU9S8shLNiBXfdakPQC5Cvl4d8HD5rJMdCA29v0DEkvwMLu7cbaPxF2lMi/k1MRZug4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesgo\\source\\repos\\C-\\adivinaNumero\\adivinaNumero.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesgo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
