@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\bin\Debug\net6.0\ifStatment.exe
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\bin\Debug\net6.0\ifStatment.deps.json
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\bin\Debug\net6.0\ifStatment.runtimeconfig.json
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\bin\Debug\net6.0\ifStatment.dll
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\bin\Debug\net6.0\ifStatment.pdb
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.dll
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\refint\ifStatment.dll
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.pdb
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ifStatment.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\ifStatment\ifStatment\obj\Debug\net6.0\ref\ifStatment.dll

@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\bin\Debug\net6.0\ListExampleProject.exe
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\bin\Debug\net6.0\ListExampleProject.deps.json
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\bin\Debug\net6.0\ListExampleProject.runtimeconfig.json
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\bin\Debug\net6.0\ListExampleProject.dll
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\bin\Debug\net6.0\ListExampleProject.pdb
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.dll
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\refint\ListExampleProject.dll
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.pdb
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ListExampleProject.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\ListExampleProject\ListExampleProject\obj\Debug\net6.0\ref\ListExampleProject.dll

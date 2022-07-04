@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\bin\Debug\net6.0\ProjectSuscription.exe
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\bin\Debug\net6.0\ProjectSuscription.deps.json
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\bin\Debug\net6.0\ProjectSuscription.runtimeconfig.json
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\bin\Debug\net6.0\ProjectSuscription.dll
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\bin\Debug\net6.0\ProjectSuscription.pdb
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.dll
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\refint\ProjectSuscription.dll
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.pdb
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ProjectSuscription.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\ProjectSuscription\ProjectSuscription\obj\Debug\net6.0\ref\ProjectSuscription.dll
