@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jesgo\\source\\repos\\ProjectSuscription\\ProjectSuscription\\ProjectSuscription.csproj",
+      "projectUniqueName": "C:\\Users\\jesgo\\source\\repos\\C-\\SubscriptionProject\\ProjectSuscription\\ProjectSuscription.csproj",
       "projectName": "ProjectSuscription",
-      "projectPath": "C:\\Users\\jesgo\\source\\repos\\ProjectSuscription\\ProjectSuscription\\ProjectSuscription.csproj",
+      "projectPath": "C:\\Users\\jesgo\\source\\repos\\C-\\SubscriptionProject\\ProjectSuscription\\ProjectSuscription.csproj",
       "packagesPath": "C:\\Users\\jesgo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jesgo\\source\\repos\\ProjectSuscription\\ProjectSuscription\\obj\\",
+      "outputPath": "C:\\Users\\jesgo\\source\\repos\\C-\\SubscriptionProject\\ProjectSuscription\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
