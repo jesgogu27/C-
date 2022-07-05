@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\bin\Debug\net6.0\MatrizAntiFraude.exe
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\bin\Debug\net6.0\MatrizAntiFraude.deps.json
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\bin\Debug\net6.0\MatrizAntiFraude.runtimeconfig.json
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\bin\Debug\net6.0\MatrizAntiFraude.dll
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\bin\Debug\net6.0\MatrizAntiFraude.pdb
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.dll
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\refint\MatrizAntiFraude.dll
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.pdb
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\MatrizAntiFraude.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\MatrizAntiFraude\MatrizAntiFraude\obj\Debug\net6.0\ref\MatrizAntiFraude.dll
