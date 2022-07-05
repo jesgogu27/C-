@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\bin\Debug\net6.0\PedidosFraudulentos.exe
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\bin\Debug\net6.0\PedidosFraudulentos.deps.json
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\bin\Debug\net6.0\PedidosFraudulentos.runtimeconfig.json
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\bin\Debug\net6.0\PedidosFraudulentos.dll
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\bin\Debug\net6.0\PedidosFraudulentos.pdb
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.dll
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\refint\PedidosFraudulentos.dll
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.pdb
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\PedidosFraudulentos.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\C-\PedidosFraudulentos\PedidosFraudulentos\obj\Debug\net6.0\ref\PedidosFraudulentos.dll
