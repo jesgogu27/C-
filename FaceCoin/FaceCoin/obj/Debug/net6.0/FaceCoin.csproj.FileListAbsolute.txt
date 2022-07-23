@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\bin\Debug\net6.0\FaceCoin.exe
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\bin\Debug\net6.0\FaceCoin.deps.json
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\bin\Debug\net6.0\FaceCoin.runtimeconfig.json
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\bin\Debug\net6.0\FaceCoin.dll
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\bin\Debug\net6.0\FaceCoin.pdb
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.dll
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\refint\FaceCoin.dll
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.pdb
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\FaceCoin.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\C-\FaceCoin\FaceCoin\obj\Debug\net6.0\ref\FaceCoin.dll
