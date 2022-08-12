@@ -1,0 +1,5 @@
+C:\Users\jesgo\source\repos\C-\HackerRank1\HackerRank1\obj\Debug\net6.0\HackerRank1.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\HackerRank1\HackerRank1\obj\Debug\net6.0\HackerRank1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\HackerRank1\HackerRank1\obj\Debug\net6.0\HackerRank1.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\HackerRank1\HackerRank1\obj\Debug\net6.0\HackerRank1.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\HackerRank1\HackerRank1\obj\Debug\net6.0\HackerRank1.csproj.CoreCompileInputs.cache

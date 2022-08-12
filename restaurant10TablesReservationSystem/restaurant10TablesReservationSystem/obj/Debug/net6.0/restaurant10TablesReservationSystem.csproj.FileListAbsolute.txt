@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\net6.0\restaurant10TablesReservationSystem.exe
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\net6.0\restaurant10TablesReservationSystem.deps.json
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\net6.0\restaurant10TablesReservationSystem.runtimeconfig.json
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\net6.0\restaurant10TablesReservationSystem.dll
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\bin\Debug\net6.0\restaurant10TablesReservationSystem.pdb
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.dll
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\refint\restaurant10TablesReservationSystem.dll
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.pdb
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\restaurant10TablesReservationSystem.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\C-\restaurant10TablesReservationSystem\restaurant10TablesReservationSystem\obj\Debug\net6.0\ref\restaurant10TablesReservationSystem.dll

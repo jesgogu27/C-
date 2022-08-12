@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "9PD2SyNRfviaetYygXZCy0wbDQGZ+dT7aR3kD75yS52oPvv0UfHXaLGBnfVf1et4UCHSZyxE+9CVlnG4pOOwdQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\jesgo\\source\\repos\\C-\\EmployeesModule\\EmployeesModule\\EmployeesModule.Infrastructure.Repository.EFCore\\EmployeesModule.Infrastructure.Repository.EFCore.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\jesgo\\source\\repos\\C-\\EmployeesModule\\EmployeesModule\\EmployeesModule.Infraestructure.Data.EFCore\\EmployeesModule.Infrastructure.Data.EFCore.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\jesgo\\source\\repos\\C-\\EmployeesModule\\EmployeesModule\\EmployeesModule.Infraestructure.Data.EFCore\\EmployeesModule.Infrastructure.Data.EFCore.csproj",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

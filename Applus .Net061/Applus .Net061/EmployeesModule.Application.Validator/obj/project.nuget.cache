@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lUSu0THO6gfB7F1oWhOOOMTlI3O1MZh8AXZXWK98JIF7NkN5d8+BOd478nZsO83j5FVbC4V/0d5J+Yseit254A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jesgo\\source\\repos\\C-\\Applus .Net061\\Applus .Net061\\EmployeesModule.Application.Validator\\EmployeesModule.Application.Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jesgo\\.nuget\\packages\\fluentvalidation\\11.1.0\\fluentvalidation.11.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

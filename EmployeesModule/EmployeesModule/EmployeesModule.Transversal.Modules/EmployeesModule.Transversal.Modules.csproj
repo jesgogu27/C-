@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="6.0.1" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeesModule.Application.Interface\EmployeesModule.Application.Interface.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Application.Main\EmployeesModule.Application.Main.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Application.Validator\EmployeesModule.Application.Validator.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Domain.Core\EmployeesModule.Domain.Core.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Domain.Entities\EmployeesModule.Domain.Entities.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Domain.Interface\EmployeesModule.Domain.Interface.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Infraestructure.Data.EFCore\EmployeesModule.Infrastructure.Data.EFCore.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Infrastructure.Interface\EmployeesModule.Infrastructure.Interface.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Infrastructure.Repository.EFCore\EmployeesModule.Infrastructure.Repository.EFCore.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Transversal.Common\EmployeesModule.Transversal.Common.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Transversal.Loggin\EmployeesModule.Transversal.Loggin.csproj" />
+  </ItemGroup>
+
+</Project>

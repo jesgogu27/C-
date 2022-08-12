@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EmployeesModule.Infraestructure.Data.EFCore\EmployeesModule.Infrastructure.Data.EFCore.csproj" />
+    <ProjectReference Include="..\EmployeesModule.Infrastructure.Interface\EmployeesModule.Infrastructure.Interface.csproj" />
+  </ItemGroup>
+
+</Project>
