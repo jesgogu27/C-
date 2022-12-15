@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\bin\Debug\net6.0\PrimerosPasosConCSharp.exe
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\bin\Debug\net6.0\PrimerosPasosConCSharp.deps.json
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\bin\Debug\net6.0\PrimerosPasosConCSharp.runtimeconfig.json
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\bin\Debug\net6.0\PrimerosPasosConCSharp.dll
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\bin\Debug\net6.0\PrimerosPasosConCSharp.pdb
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.dll
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\refint\PrimerosPasosConCSharp.dll
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.pdb
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\PrimerosPasosConCSharp.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\C-\PrimerosPasosConCSharp\PrimerosPasosConCSharp\obj\Debug\net6.0\ref\PrimerosPasosConCSharp.dll

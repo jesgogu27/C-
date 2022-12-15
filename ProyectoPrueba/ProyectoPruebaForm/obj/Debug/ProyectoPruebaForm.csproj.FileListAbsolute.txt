@@ -1,0 +1,5 @@
+C:\Users\jesgo\source\repos\C-\ProyectoPrueba\ProyectoPruebaForm\obj\Debug\ProyectoPruebaForm.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\ProyectoPrueba\ProyectoPruebaForm\obj\Debug\ProyectoPruebaForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\jesgo\source\repos\C-\ProyectoPrueba\ProyectoPruebaForm\obj\Debug\ProyectoPruebaForm.Properties.Resources.resources
+C:\Users\jesgo\source\repos\C-\ProyectoPrueba\ProyectoPruebaForm\obj\Debug\ProyectoPruebaForm.csproj.GenerateResource.cache
+C:\Users\jesgo\source\repos\C-\ProyectoPrueba\ProyectoPruebaForm\obj\Debug\ProyectoPruebaForm.csproj.CoreCompileInputs.cache

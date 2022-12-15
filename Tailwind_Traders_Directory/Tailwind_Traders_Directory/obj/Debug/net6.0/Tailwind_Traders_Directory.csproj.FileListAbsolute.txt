@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\bin\Debug\net6.0\Tailwind_Traders_Directory.exe
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\bin\Debug\net6.0\Tailwind_Traders_Directory.deps.json
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\bin\Debug\net6.0\Tailwind_Traders_Directory.runtimeconfig.json
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\bin\Debug\net6.0\Tailwind_Traders_Directory.dll
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\bin\Debug\net6.0\Tailwind_Traders_Directory.pdb
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.dll
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\refint\Tailwind_Traders_Directory.dll
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.pdb
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\Tailwind_Traders_Directory.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\C-\Tailwind_Traders_Directory\Tailwind_Traders_Directory\obj\Debug\net6.0\ref\Tailwind_Traders_Directory.dll

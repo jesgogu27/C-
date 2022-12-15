@@ -36,8 +36,7 @@ namespace Solution
 
     public class Subteam : Team
     {
-        Team  _teamName;
-        Team noOfPlayer;
+   
         public Subteam(string teamName, int noOfPlayers)
         {
             this.teamName = teamName;
