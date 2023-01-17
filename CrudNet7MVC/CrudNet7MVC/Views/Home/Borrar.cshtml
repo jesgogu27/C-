@@ -1,0 +1,58 @@
+﻿@model CrudNet7MVC.Models.Contacto
+@{
+    ViewData["Title"] = "Borrar Contacto";
+}
+
+<h1 class="text-center"> Contacto con Net 7(.Net Core MVC)</h1>
+
+<div class="row">
+    <div class="offset-12">
+        <div class="card border">
+
+            <div class="card-header bg-dark">
+                <h3 class="text-white"><strong>Borrar Usuario</strong></h3>
+            </div>
+
+            <div class="card-body">
+                <form asp-action="Borrar">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                    <!--Id del usuario como campo oculto-->
+                    <input type="hidden" asp-for="Id" />
+
+
+
+                    <div class="form-group">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" readonly />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Cargo" class="control-label"></label>
+                        <input asp-for="Cargo" class="form-control" readonly />
+                        <span asp-validation-for="Cargo" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <label asp-for="Phone" class="control-label"></label>
+                        <input asp-for="Phone" class="form-control" readonly />
+                        <span asp-validation-for="Phone" class="text-danger"></span>
+                    </div>
+                    <div class="form-group">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" readonly/>
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mt-3">
+                        <button type="submit" class="btn btn-primary d-block mx-auto"><i class="bg bi-eraser-fill"></i>Borrar Usuario</button>
+                    </div>
+                </form>
+                <a asp-controller="Home" asp-action="Index">Volver</a>
+            </div>
+
+        </div>
+
+    </div>
+</div>

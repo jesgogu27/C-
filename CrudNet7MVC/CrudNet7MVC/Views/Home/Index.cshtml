@@ -1,4 +1,4 @@
-﻿@model IEnumerable<CrudNet7MVC.Models.Conctacto>
+﻿@model IEnumerable<CrudNet7MVC.Models.Contacto>
 @{
     ViewData["Title"] = "Lista De Contactos";
 }
@@ -7,7 +7,9 @@
 <div class="row">
    <div class="offset-9 col-3 mb-3">
 
-       <a asp-action="Crear" asp-controller="Index" class="btn btn-secondary d-block mx-auto btn-lg">Nuevo Usuario</a>
+       <a asp-action="Crear" asp-controller="Home" class="btn btn-secondary d-block mx-auto btn-lg">
+            <i class="bi bi-file-plus-fill"></i>Nuevo Usuario
+        </a>
 
    </div>
 </div>
@@ -37,17 +39,16 @@
                             <tbody>
                                 @foreach(var item in Model){
                                     <tr>
+                                        <td>@Html.DisplayFor(m=> item.Id)</td>
                                         <td>@Html.DisplayFor(m => item.Name)</td>
                                         <td>@Html.DisplayFor(m => item.Cargo)</td>
                                         <td>@Html.DisplayFor(m => item.Phone)</td>
                                         <td>@Html.DisplayFor(m => item.Email)</td>
                                         <td>@Html.DisplayFor(m => item.FechaCreacion)</td>
                                         <td>
-                                            <a class=" btn btn-warning" asp-action="Editar" asp-route-id="@item.Id">Editar</a>
-                                            <a class=" btn btn-secondary" asp-action="Detalle" asp-route-id="@item.Id">Detalle</a>
-                                            <a class="btn btn-danger" asp-action="Borrar" asp-route-id= "@item.Id">Borrar</a>
-
-
+                                            <a class=" btn btn-warning" asp-action="Editar" asp-route-id="@item.Id"><i class="bi bi-pencil-fill"></i>Editar</a>
+                                            <a class=" btn btn-secondary" asp-action="Detalle" asp-route-id="@item.Id"><i class="bi bi-info-circle-fill"></i>Detalle</a>
+                                            <a class="btn btn-danger" asp-action="Borrar" asp-route-id="@item.Id"><i class="bi bi-erase-fill"></i>Borrar</a>
                                         </td>
                                     </tr>                                    
                                 }
@@ -59,8 +60,37 @@
                     }
                 </div>
             </div>
-
         </div>
-        
     </div>
 </div>
+
+@section Scripts{
+    <script>
+        $(document).ready(function(){
+            //llamar a datatable
+            $('#tblUsuarios').DataTable({
+                language: {
+                    "decimal" : "",
+                    "emptyTable":"No hay Info",
+                    "info": "Mostrando _START_ a _END_ de _TOTAL_ Entradas",
+                    "infoEmpty": "Mostrando 0 to 0 of 0 Entradas",
+                    "infoFiltered": "(Filtrado de _MAX_ total entradas)",
+                    "infoPostFix": "",
+                    "thousands": ",",
+                    "lengthMenu": "Mostrar _MENU_ Entradas",
+                    "loadingRecords": "Cargando....",
+                    "processing": "Procesando",
+                    "search": "Buscar:",
+                    "zeroRecords": "Sin Resultados",
+                    "paginate": {
+                        "first":"Pimero",
+                        "last":"Último",
+                        "next":"Siguiente",
+                        "previous":"Anterior"
+                    }
+                }
+            });
+
+        });
+    </script>
+}

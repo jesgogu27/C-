@@ -1,4 +1,5 @@
-﻿using CrudNet7MVC.Models;
+﻿
+using CrudNet7MVC.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace CrudNet7MVC.Data
@@ -12,7 +13,7 @@ namespace CrudNet7MVC.Data
         }
 
         //agregar modelos
-        public DbSet<Conctacto> Contacto { get; set; } 
+        public DbSet<Contacto> Contacto { get; set; } 
 
     }
 }

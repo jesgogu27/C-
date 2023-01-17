@@ -1,9 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel.DataAnnotations;
 
 namespace CrudNet7MVC.Models
 {
-    public class Conctacto
+    public class Contacto
     {
         [Key]
         public int Id { get; set; }
