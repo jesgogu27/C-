@@ -2,4 +2,4 @@
 Console.WriteLine("Ingrese Nombre:");
 string nombre = Console.ReadLine();
 
-Console.WriteLine("Hola " + nombre);
+Console.WriteLine(nombre);
