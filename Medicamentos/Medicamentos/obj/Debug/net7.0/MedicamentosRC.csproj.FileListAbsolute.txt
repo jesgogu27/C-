@@ -1,0 +1,8 @@
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.RazorAssemblyInfo.cache
+C:\Users\jesgo\source\repos\C-\Medicamentos\Medicamentos\obj\Debug\net7.0\MedicamentosRC.RazorAssemblyInfo.cs

@@ -1,0 +1,15 @@
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.exe
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.deps.json
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.runtimeconfig.json
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.dll
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\bin\Debug\net7.0\Ejercicio1.pdb
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.dll
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\refint\Ejercicio1.dll
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.pdb
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\Ejercicio1.genruntimeconfig.cache
+C:\Users\jesgo\source\repos\C-\BootCamp\Ejercicio1\Ejercicio1\obj\Debug\net7.0\ref\Ejercicio1.dll

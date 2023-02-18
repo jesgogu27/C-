@@ -8,7 +8,7 @@ namespace CrudNet7MVC.Controllers
 {
 
 
-    public class HomeController : Controller
+        public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
         private readonly ApplicationDbContext _context;
@@ -132,6 +132,7 @@ namespace CrudNet7MVC.Controllers
             
             
         }
+
 
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

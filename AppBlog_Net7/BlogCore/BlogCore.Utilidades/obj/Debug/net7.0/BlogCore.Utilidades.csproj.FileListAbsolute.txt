@@ -1,0 +1,12 @@
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.deps.json
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\bin\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.csproj.AssemblyReference.cache
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfoInputs.cache
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.AssemblyInfo.cs
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.csproj.CoreCompileInputs.cache
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.dll
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\refint\BlogCore.Utilidades.dll
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\BlogCore.Utilidades.pdb
+C:\Users\jesgo\source\repos\C-\AppBlog_Net7\BlogCore\BlogCore.Utilidades\obj\Debug\net7.0\ref\BlogCore.Utilidades.dll

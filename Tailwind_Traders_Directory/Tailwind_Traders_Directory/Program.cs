@@ -18,7 +18,7 @@ internal class Program
 
         //files into a specific directory
         IEnumerable<string> listOfFiles = Directory.EnumerateFiles(pathDirectory);
-
+        Console.WriteLine("Debe imprimir los files");
         foreach (string file in listOfFiles)
         {
             Console.WriteLine(file);

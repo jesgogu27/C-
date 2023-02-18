@@ -22,7 +22,7 @@ namespace CrudNet7MVC.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("CrudNet7MVC.Models.Conctacto", b =>
+            modelBuilder.Entity("CrudNet7MVC.Models.Contacto", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

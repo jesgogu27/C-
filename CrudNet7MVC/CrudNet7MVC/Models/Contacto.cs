@@ -14,6 +14,7 @@ namespace CrudNet7MVC.Models
         public string Phone { get; set; }
         [Required (ErrorMessage = ("Email es Obligatorio"))]
         public string Email { get; set; }
+        [DisplayFormat(ApplyFormatInEditMode = true, DataFormatString = "{0:MM/dd/yyyy}")]
         public DateTime FechaCreacion{ get; set; }
 
     }
